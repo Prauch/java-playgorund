@@ -1,0 +1,17 @@
+INDEX VERSION 1.131+C:\Users\Wojtek\Documents\workspace-java-playground\.metadata\.plugins\org.eclipse.jdt.core
+196973030.index
+1391708034.index
+475043301.index
+1091347983.index
+1227166391.index
+2672793272.index
+2158312854.index
+2268119641.index
+749124478.index
+3814551627.index
+649141809.index
+389389742.index
+3689160181.index
+1128237810.index
+483546182.index
+938764892.index

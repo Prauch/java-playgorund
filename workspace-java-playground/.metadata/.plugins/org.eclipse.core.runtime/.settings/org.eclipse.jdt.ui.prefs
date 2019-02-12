@@ -1,0 +1,21 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="singleton.EagerSingleton"><rhs name\="singleton.EagerSingleton"/></lhs><lhs name\="ComputerBuilder"><rhs name\="ComputerBuilder"/></lhs><lhs name\="BankAccount"><rhs name\="BankAccount"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="prototype.Employees"/><rhs name\="java.util.HashSet"/></lhs><lhs name\="prototype.Employees"><rhs name\="prototype.Employees"/></lhs><lhs name\="Department"><rhs name\="ITDepartment"/><rhs name\="HRDepartment"/><rhs name\="HeadDepartment"/></lhs><lhs name\="HeadDepartment"><rhs name\="HeadDepartment"/></lhs><lhs name\="Car"><rhs name\="LuxuryCar"/><rhs name\="SportsCar"/></lhs><lhs name\="CarDecorator"><rhs name\="SportsCar"/><rhs name\="LuxuryCar"/></lhs><lhs name\="SportsCar"><rhs name\="SportsCar"/></lhs><lhs name\="LuxuryCar"><rhs name\="LuxuryCar"/></lhs><lhs name\="DispenseChain"><rhs name\="DispenseChain50"/></lhs><lhs name\="DispenseChain50"><rhs name\="DispenseChain50"/></lhs><lhs name\="Currency"><rhs name\="Currency"/></lhs><lhs name\="Volt"><rhs name\="Volt"/><rhs name\="SocketAdapterImpl"/></lhs><lhs name\="SocketAdapter"><rhs name\="SocketAdapterImpl"/></lhs><lhs name\="SocketAdapterImpl"><rhs name\="SocketAdapterImpl"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/><rhs name\="java.util.HashSet"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/><rhs name\="java.util.HashSet"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.Set"><rhs name\="java.util.HashSet"/></lhs><lhs name\="java.util.AbstractSet"><rhs name\="java.util.HashSet"/></lhs><lhs name\="java.util.AbstractCollection"><rhs name\="java.util.HashSet"/></lhs><lhs name\="java.util.HashSet"><rhs name\="java.util.HashSet"/></lhs><lhs name\="java.util.Map"><rhs name\="java.util.HashMap"/></lhs></history>
+content_assist_number_of_computers=15
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=15
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+spelling_ignore_ampersand_in_properties=true
+spelling_ignore_digits=true
+spelling_ignore_java_strings=true
+spelling_ignore_mixed=true
+spelling_ignore_non_letters=true
+spelling_ignore_sentence=true
+spelling_ignore_single_letters=true
+spelling_ignore_upper=true
+spelling_ignore_urls=true
+spelling_locale_initialized=true
+spelling_user_dictionary_encoding=
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
